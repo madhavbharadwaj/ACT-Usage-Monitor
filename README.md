@@ -5,4 +5,4 @@ Requirements: Python 3.5 on Windows or Linux or Mac
 
 Extra Libraries/Frameworks: Beautiful Soup , Matplotlib ,Selenium
 
-![alt tag](https://i.imgur.com/0dTbSQ0.png "How it looks")
+![alt tag](https://i.imgur.com/j3LmLya.png "How it looks")
