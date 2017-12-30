@@ -5,4 +5,6 @@ Requirements: Python 3.5 on Windows or Linux or Mac
 
 Extra Libraries/Frameworks: Beautiful Soup , Matplotlib ,Selenium
 
-![alt tag](https://i.imgur.com/lgw2KK0.png "How it looks")
+![alt tag](https://i.imgur.com/lgw2KK0.png "w/o flexy")
+
+![alt tag](https://i.imgur.com/920Phpm.png "w flexy")
