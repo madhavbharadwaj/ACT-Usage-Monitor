@@ -7,4 +7,4 @@ Extra Libraries/Frameworks: Beautiful Soup , Matplotlib ,Selenium
 
 ![alt tag](https://i.imgur.com/lgw2KK0.png "w/o flexy")
 
-![alt tag](https://i.imgur.com/920Phpm.png "w flexy")
+![alt tag](https://i.imgur.com/PR6V1VZ.png "w flexy")
